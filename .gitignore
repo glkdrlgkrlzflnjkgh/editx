@@ -1,1 +1,7 @@
 *.ipch
+.vs/editx/CopilotIndices/17.14.827.52834/CodeChunks.db-shm
+.vs/editx/CopilotIndices/17.14.827.52834/CodeChunks.db-shm
+.vs/editx/CopilotIndices/17.14.827.52834/SemanticSymbols.db-shm
+*.db-shm
+.vs/editx/v17/.wsuo
+*.db-shm
