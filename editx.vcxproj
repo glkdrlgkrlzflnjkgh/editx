@@ -13,10 +13,6 @@
       <Configuration>DebugARM</Configuration>
       <Platform>ARM</Platform>
     </ProjectConfiguration>
-    <ProjectConfiguration Include="DebugARM|Win32">
-      <Configuration>DebugARM</Configuration>
-      <Platform>Win32</Platform>
-    </ProjectConfiguration>
     <ProjectConfiguration Include="DebugARM|x64">
       <Configuration>DebugARM</Configuration>
       <Platform>x64</Platform>
